@@ -2,7 +2,7 @@
 
 Nmap auto-scanning for HTB Machines.
 
-Usage :  python3 HTBScan.py -i <IP> -m <Mode>
+Usage :  python3 HTBScan.py -i *IP* -m *Mode*
 
 Modes:
 
